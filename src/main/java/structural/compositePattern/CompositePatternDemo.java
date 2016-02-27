@@ -1,4 +1,4 @@
-package structural;
+package structural.compositePattern;
 
 /**
  * Created by tianhai on 27/02/16 for the project DesignPatterns.
